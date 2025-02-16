@@ -1,0 +1,6 @@
+<plugin id="cordova-plugin-settings" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>SettingsPlugin</name>
+    <platform name="android">
+        <source-file src="src/android/SettingsPlugin.java" target-dir="src/com/yourcompany/cordova" />
+    </platform>
+</plugin>
