@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-settings": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/RishabhS1807/cordova-plugin-settings"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

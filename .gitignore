@@ -17,5 +17,6 @@
 # under the License.
 
 .DS_Store
-
+node_modules/
+platforms/
 
